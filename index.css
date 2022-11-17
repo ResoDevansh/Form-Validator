@@ -1,0 +1,35 @@
+#container{
+    background-color: gold;
+    margin: 200px auto;
+    width: 30%;
+    text-align: center;
+    border: 2px solid black;
+}
+#Username,#Password{
+    padding: 10px;
+    color: blue;
+    margin-top: 30px;
+    width: 50%;
+}
+h1{
+    margin: 0px;
+    background-color: red;
+    color: wheat;
+    border-width: 1px 1px 1px 0px;
+    border-color: black;
+}
+#Submit{
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 30%;
+    font-size: 15px;
+    color: chocolate;
+    background-color: antiquewhite;
+    border: 0px;
+    cursor: pointer;
+}
+#error1,#error2{
+    text-align: left;
+    color: red;
+}
